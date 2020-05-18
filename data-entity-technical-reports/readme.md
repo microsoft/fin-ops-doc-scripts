@@ -1,6 +1,6 @@
 # Run the data entity reports
 
-These are the report files.
+These are the report scripts.
 
 Script | Outputs
 ---|---
