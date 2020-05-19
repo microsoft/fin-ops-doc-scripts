@@ -15,6 +15,8 @@ TablesReport.ps1 | Tables.csv
 WorkflowTypesReport.ps1 | WorkflowTypes.csv 
 LicenseCode-ConfigKeyReport.ps1 | LicenseCodes.csv<br>ConfigKeys.csv<br>ConfigKeyGroups.csv<br>MenuItems.csv 
 
+The TablesReport.ps1 script takes awhile to run, but produces output as it runs.
+
 The report scripts use functions from these files:
 
 + GetDataEntitiesWithSources.ps1
