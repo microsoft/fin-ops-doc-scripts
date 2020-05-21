@@ -24,3 +24,11 @@ The report scripts use functions from these files:
 
 Because the reports scripts include the function files, you need to run the reports from the folder with the .ps1 files.
 
+You might see this message when you run the reports: 
+
+```Plaintext
+Run only scripts that you trust. While scripts from the internet can be useful, this script can potentially harm your computer. If you trust this script, use the Unblock-File cmdlet to allow the script to without this warning message. Do want to run <filename> ? 
+```
+
+Click **Run once** to run the report.
+
