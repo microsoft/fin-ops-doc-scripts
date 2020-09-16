@@ -21,7 +21,7 @@ The report scripts use functions from these files:
 + GetDataEntitiesWithSources.ps1
 + MetadataProvider.ps1
 
-Because the reports scripts include the function files, you need to run the reports from the folder with the .ps1 files.
+Because the scripts include the function files, you need to run the reports from the folder with the .ps1 files.
 
 You might see this message when you run the reports: 
 
