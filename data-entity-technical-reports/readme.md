@@ -9,11 +9,10 @@ AggregateMeasuresReport.ps1 | AggregateMeasures.csv
 DataEntityFieldReport.ps1 | DataEntityFields.csv 
 DataEntityReport.ps1 | DataEntities.csv 
 KPIReport.ps1 | KPIs.csv 
+LicenseCode-ConfigKeyReport.ps1 | LicenseCodes.csv<br>ConfigKeys.csv<br>ConfigKeyGroups.csv<br>MenuItems.csv 
 SSRSReport.ps1 | SSRSReports.csv 
-TablePermissionsReport.ps1 | AosAuthorizations.csv 
 TablesReport.ps1 | Tables.csv 
 WorkflowTypesReport.ps1 | WorkflowTypes.csv 
-LicenseCode-ConfigKeyReport.ps1 | LicenseCodes.csv<br>ConfigKeys.csv<br>ConfigKeyGroups.csv<br>MenuItems.csv 
 
 The TablesReport.ps1 script takes awhile to run, but produces output as it runs.
 
