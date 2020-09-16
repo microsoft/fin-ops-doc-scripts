@@ -34,4 +34,4 @@ Click **Run once** to run the report.
 
 ## Contributing
 
-This project welcomes contributions and suggestions. For more information, see the (readme file)[../README.md].
+This project welcomes contributions and suggestions. For more information, see the [readme file](../README.md).
