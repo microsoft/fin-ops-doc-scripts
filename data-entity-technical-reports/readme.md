@@ -11,10 +11,10 @@ DataEntityReport.ps1 | DataEntities.csv
 KPIReport.ps1 | KPIs.csv 
 LicenseCode-ConfigKeyReport.ps1 | LicenseCodes.csv<br>ConfigKeys.csv<br>ConfigKeyGroups.csv<br>MenuItems.csv 
 SSRSReport.ps1 | SSRSReports.csv 
-TablesReport.ps1 | Tables.csv 
+TablesReport.ps1 | Tables.csv<br>This report takes awhile to run, but it produces output as it runs. 
 WorkflowTypesReport.ps1 | WorkflowTypes.csv 
 
-The TablesReport.ps1 script takes awhile to run, but produces output as it runs.
+## Helper functions
 
 The report scripts use functions from these files:
 
@@ -22,6 +22,12 @@ The report scripts use functions from these files:
 + MetadataProvider.ps1
 
 Because the scripts include the function files, you need to run the reports from the folder with the .ps1 files.
+
+## metadataPath
+
+You might need to update the **metadataPath** parameter to your local packages folder.
+
+## Running the script
 
 You might see this message when you run the reports: 
 
