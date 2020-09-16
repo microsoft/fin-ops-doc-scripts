@@ -32,3 +32,6 @@ If you trust this script, use the Unblock-File cmdlet to allow the script to wit
 
 Click **Run once** to run the report.
 
+## Contributing
+
+This project welcomes contributions and suggestions. For more information, see the (readme file)[../README.md].
